@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8WSDpFYHs6CK7-v1VjFhJQ)](https://img.shields.io/youtube/channel/subscribers/UC8WSDpFYHs6CK7-v1VjFhJQ?label=TheRifson)
-
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](Rifson)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
