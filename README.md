@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8WSDpFYHs6CK7-v1VjFhJQ)](https://www.youtube.com/@TheRifson)
+[![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/christian-rimmerhus-vestergaard-3b046510a/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TheRifson)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/Rifson)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
