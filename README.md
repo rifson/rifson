@@ -1,5 +1,9 @@
 ## Hi there 👋
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8WSDpFYHs6CK7-v1VjFhJQ)
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <!--
 **rifson/rifson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
