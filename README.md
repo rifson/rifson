@@ -1,5 +1,5 @@
 ## Hi there 👋
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8WSDpFYHs6CK7-v1VjFhJQ)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8WSDpFYHs6CK7-v1VjFhJQ)](https://img.shields.io/youtube/channel/subscribers/UC8WSDpFYHs6CK7-v1VjFhJQ?label=TheRifson)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
